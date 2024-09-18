@@ -1,16 +1,11 @@
-# get_started
+# Get Started
 
-A new Flutter project.
+Slicing UI
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+<img width="322" alt="Design - Get Started" src="https://github.com/Pashakhatamihasibuan/Sailing-into-the-Future---Slicing-UI/blob/main/figma/GetStarted%20-%20UI.png">
 
-A few resources to get you started if this is your first Flutter project:
+## 🔗 Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashakhatamihsb/)
